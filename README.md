@@ -1,9 +1,9 @@
 # staycation backend
 
-<h2>Hello</h2> this project made for backend to manage data from mongoodb
-To see inside the backend you can click <a href="https://staycation-oltech.herokuapp.com/admin/signin">HERE</a> 
-username : admin
-password rahasia
+-<h2>Hello</h2> this project made for backend to manage data from mongoodb
+-To see inside the backend you can click <a href="https://staycation-oltech.herokuapp.com/admin/signin">HERE</a> 
+-username : admin
+-password rahasia
 
 Please dont change data
 
